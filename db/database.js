@@ -1,0 +1,1 @@
+{"historial":["bogotá, colombia","cantel, zunil, quetzaltenango, guatemala","río bravo, suchitepéquez, guatemala","guatemala, ciudad de guatemala, guatemala, guatemala","xelajú, quetzaltenango, quetzaltenango, guatemala"]}
